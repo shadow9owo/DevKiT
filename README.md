@@ -9,7 +9,7 @@ Features:
 * aes string encryption / decryption
 * base64 string encoding / decoding
 * md5 hashing
-* post requests
+* post requests (experimental)
 * get requests
 * unique identifier generator (string that dosent change and is unique on every device)
 
