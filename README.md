@@ -2,7 +2,7 @@
 a c sharp cryptography library
 
 Requirements:
- .net 2.0
+* .net 2.0
 
 Features:
 * aes file encrption / decryption
