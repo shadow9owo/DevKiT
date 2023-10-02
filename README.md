@@ -12,3 +12,5 @@ Features:
 * post requests
 * get requests
 * unique identifier generator (string that dosent change and is unique on every device)
+
+-@- more is gonna be added -@-
