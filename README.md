@@ -5,8 +5,8 @@ Requirements:
 * .net 2.0
 
 Features:
-* aes file encrption / decryption
-* aes string encryption / decryption
+* aes file encrption / decryption (cbc)
+* aes string encryption / decryption (cbc)
 * base64 string encoding / decoding
 * md5 hashing
 * post requests (experimental)
